@@ -1,6 +1,4 @@
-# Matha Fresh Data Intelligence Dashboard
-
-**Transforming Sales Data into Growth Opportunities**
+# Matha Fresh Business Insights Dashboard
 
 ---
 
@@ -15,13 +13,13 @@ At Matha Fresh, we believe data isn’t just numbers—it’s the story of our c
 ### 1. Data Extraction (SQL)
 - Exported all sales, product, customer, and payment data (2024–2025) directly from our website database.
 - Ensured completeness by joining relevant tables and pulling granular transactional details.
-
-### 2. Data Cleaning & Merging (Python & Excel)
-- Combined and harmonized datasets using Python (pandas) and Excel.
+ 
+### 2. Data Cleaning & Merging (Python Excel & PowerBI)
+- Combined and harmonized datasets using Python (pandas) Excel and PowerBI.
 - Standardized product names, dates, and payment methods, ensuring consistency and accuracy for analysis.
 - Dealt with missing, duplicate, or incorrect entries to guarantee trustworthy reporting.
 
-### 3. Data Structuring (Excel)
+### 3. Data Structuring (PowerBI)
 - Created summary tables and grouped key features (product, postcode, date, payment).
 - Explored early trends—such as top-selling items and busiest order days—to guide deeper Power BI modeling.
 
@@ -35,31 +33,31 @@ At Matha Fresh, we believe data isn’t just numbers—it’s the story of our c
 
 ### 5. KPI & DAX Measures
 - Developed dynamic KPIs for revenue, transactions, product performance, product combinations, customer locations, and payment analysis.
-- Used DAX for advanced calculations—such as year-over-year growth, average order value, and frequently bought-together analysis.
+- Used DAX for advanced calculations, such as year-over-year growth, average order value, and frequently bought-together analysis.
 
 ---
 
 ## Visualizations
 
 ### Dashboard Features
-- **Sales Over Time:** Highlights revenue trends, seasonality, and key growth periods.
+- **Sales Over Time:** Highlights revenue trends, seasonality, and key periods of growth.
 - **Top-Selling Products:** Ranks seafood products by revenue and volume.
 - **Product Pair Matrix:** Reveals the most popular combinations purchased together.
-- **Customer Geography:** Displays top-performing postcodes and regions.
+- **Customer Geography:** Displays top-performing postcodes.
 - **Payment Method Analysis:** Breaks down sales by cash vs. online payments, aiding operational strategy.
 
-> _Add screenshots or embed sample visuals here for reference._
-
----
+![image](https://github.com/user-attachments/assets/9c3dc2f5-6694-4e50-993d-e92c7750384d)
 
 ## Insights & Actions
 
 ### 1. Sales Growth and Transaction Volume
 - **Insight:**  
-  Over **20.5 million** in revenue from 34,000+ transactions in two years reveals strong market demand and effective customer acquisition.
+  Over $ 20.5 million in revenue from 34,000+ transactions in one year reveals strong market demand and effective customer acquisition.
 - **Actions:**  
   - Invest in scaling operations to meet growing demand.
   - Implement loyalty programs or referral incentives to maintain customer growth momentum.
+    
+![image](https://github.com/user-attachments/assets/8686cec1-485a-4609-a12d-65dea6ef64e2)
 
 ---
 
@@ -69,6 +67,9 @@ At Matha Fresh, we believe data isn’t just numbers—it’s the story of our c
 - **Actions:**  
   - Ensure high stock levels and priority sourcing for these items to prevent lost sales.
   - Feature these products in digital marketing, homepage banners, and festival promotions to further boost sales.
+  
+![image](https://github.com/user-attachments/assets/b8c02fec-0a88-4349-98e0-568b945288d4)
+
 
 ---
 
@@ -78,6 +79,8 @@ At Matha Fresh, we believe data isn’t just numbers—it’s the story of our c
 - **Actions:**  
   - Create bundled offers or combo deals based on these popular pairings to increase average order value.
   - Suggest “Frequently Bought Together” products at checkout on the website.
+  
+![image](https://github.com/user-attachments/assets/121b0d42-1bf0-4fed-a4b5-9a07ac089429)
 
 ---
 
@@ -87,6 +90,8 @@ At Matha Fresh, we believe data isn’t just numbers—it’s the story of our c
 - **Actions:**  
   - Target hyper-local campaigns and delivery offers in these areas for maximum impact.
   - Optimize delivery routes and schedules to these postcodes to save costs and improve customer satisfaction.
+![Screenshot 2025-07-09 084016](https://github.com/user-attachments/assets/d8edb1d3-0afa-4d86-8d40-f749c918b8d2)
+
 
 ---
 
@@ -108,14 +113,6 @@ At Matha Fresh, we believe data isn’t just numbers—it’s the story of our c
 
 ---
 
-### 7. Opportunity for Data-Driven Decision Making
-- **Insight:**  
-  With clean, integrated data and interactive dashboards, management can now monitor real-time performance and identify new trends quickly.
-- **Actions:**  
-  - Hold monthly dashboard reviews to adapt business strategy based on latest insights.
-  - Expand dashboard KPIs to include customer retention, new customer acquisition, or product return rates for even deeper understanding.
-
----
 
 ## Conclusion
 
@@ -127,8 +124,8 @@ The insights gained aren’t just informative—they’re actionable, leading to
 
 **Tools & Technologies Used:**  
 - **SQL**: Data Extraction  
-- **Python (pandas)**: Data Cleaning & Merging  
-- **Excel**: Data Structuring & Summaries  
+- **Python (pandas)**: Merging  
+- **Excel**: Data Structuring  
 - **Power BI**: Data Modeling, DAX, and Visualization
 
 ---
