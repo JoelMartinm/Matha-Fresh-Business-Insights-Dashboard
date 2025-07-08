@@ -4,20 +4,23 @@
 
 ## Introduction
 
-At Matha Fresh, we believe data isn’t just numbers—it’s the story of our customers, our products, and our growth. To bring these stories to life, I developed an end-to-end analytics pipeline and Power BI dashboard that reveals exactly what’s driving our success. This project integrates data from our e-commerce platform ([mathafresh.com](https://mathafresh.com/)) using SQL, Python, Excel, and Power BI, and translates it into clear, actionable business insights for our team.
+At Matha Fresh, we recognize that behind every data point lies the story of our customers, our products, and our shared growth. To truly understand and act on these stories, I built a comprehensive and interactive Power BI dashboard. By extracting and integrating data from our e-commerce platform (mathafresh.com) using SQL, Python, and Excel, I was able to transform raw transaction records into a meaningful, business-ready dataset.
+
+The heart of this project lies in its analysis. Through advanced data modeling and visualization, I uncovered trends in sales performance, identified our highest-impact products, mapped customer concentrations by postcode, and revealed purchasing behaviors that directly inform stock, marketing, and delivery strategies. Each insight was designed not just to inform, but to empower every department at Matha Fresh to make faster, smarter, and more customer-focused decisions.
 
 ---
 
 ## Data Collection & Preparation
 
 ### 1. Data Extraction (SQL)
-- Exported all sales, product, customer, and payment data (2024–2025) directly from our website database.
-- Ensured completeness by joining relevant tables and pulling granular transactional details.
+- Exported all sales, product, customer, and payment data (2024–2025) directly from our website SQL database.
+
  
 ### 2. Data Cleaning & Merging (Python Excel & PowerBI)
 - Combined and harmonized datasets using Python (pandas) Excel and PowerBI.
 - Standardized product names, dates, and payment methods, ensuring consistency and accuracy for analysis.
 - Dealt with missing, duplicate, or incorrect entries to guarantee trustworthy reporting.
+- Ensured completeness by joining relevant tables and pulling granular transactional details.
 
 ### 3. Data Structuring (PowerBI)
 - Created summary tables and grouped key features (product, postcode, date, payment).
@@ -48,6 +51,8 @@ At Matha Fresh, we believe data isn’t just numbers—it’s the story of our c
 
 ![image](https://github.com/user-attachments/assets/9c3dc2f5-6694-4e50-993d-e92c7750384d)
 
+---
+
 ## Insights & Actions
 
 ### 1. Sales Growth and Transaction Volume
@@ -68,8 +73,7 @@ At Matha Fresh, we believe data isn’t just numbers—it’s the story of our c
   - Ensure high stock levels and priority sourcing for these items to prevent lost sales.
   - Feature these products in digital marketing, homepage banners, and festival promotions to further boost sales.
   
-![image](https://github.com/user-attachments/assets/b8c02fec-0a88-4349-98e0-568b945288d4)
-
+![image](https://github.com/user-attachments/assets/f121b947-3a61-4c11-abbf-1b406d39a563)
 
 ---
 
@@ -90,8 +94,8 @@ At Matha Fresh, we believe data isn’t just numbers—it’s the story of our c
 - **Actions:**  
   - Target hyper-local campaigns and delivery offers in these areas for maximum impact.
   - Optimize delivery routes and schedules to these postcodes to save costs and improve customer satisfaction.
-![Screenshot 2025-07-09 084016](https://github.com/user-attachments/assets/d8edb1d3-0afa-4d86-8d40-f749c918b8d2)
 
+![Screenshot 2025-07-09 084016](https://github.com/user-attachments/assets/7ff68851-14ea-4ded-a113-229e69558651)
 
 ---
 
@@ -116,9 +120,10 @@ At Matha Fresh, we believe data isn’t just numbers—it’s the story of our c
 
 ## Conclusion
 
-The Matha Fresh Data Intelligence Dashboard bridges the gap between raw numbers and business strategy. By leveraging **SQL for robust data extraction**, **Python and Excel for seamless integration and cleaning**, and **Power BI for powerful, interactive analysis**, we’ve created a tool that empowers the entire company.
+The Matha Fresh Business Insights Dashboard has uncovered clear patterns in sales growth, top-performing products, and customer purchasing behavior. By identifying best-selling items like King Fish and Big Prawns, recognizing high-frequency product combinations, and pinpointing the most active customer locations, we’ve equipped the business to make smarter inventory and marketing decisions. Analysis of payment preferences and transaction trends has further enabled more efficient operations and customer service.
 
-The insights gained aren’t just informative—they’re actionable, leading to better stock management, targeted marketing, optimized delivery, and ultimately, a stronger connection with our customers. This dashboard will continue to evolve, supporting Matha Fresh’s vision for smart, scalable, and customer-centric growth in the fresh food industry.
+Ultimately, these actionable insights allow Matha Fresh to focus efforts where they matter most, ensuring the right products are available to the right customers at the right time, supporting targeted campaigns, and optimizing resources for maximum impact. As we continue to monitor these trends, the dashboard remains a critical asset for driving data-backed growth and delivering exceptional value to our customers.
+
 
 ---
 
