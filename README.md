@@ -1,10 +1,10 @@
-# Matha Fresh Business Insights Dashboard
+# Business Insights Dashboard
 
 ---
 
 ## Introduction
 
-At Matha Fresh, we recognize that behind every data point lies the story of our customers, our products, and our shared growth. To truly understand and act on these stories, I built a comprehensive and interactive Power BI dashboard. By extracting and integrating data from our e-commerce platform (mathafresh.com) using SQL, Python, and Excel, I was able to transform raw transaction records into a meaningful, business-ready dataset.
+At our company, we recognize that behind every data point lies the story of our customers, our products, and our shared growth. To truly understand and act on these stories, I built a comprehensive and interactive Power BI dashboard. By extracting and integrating data from our e-commerce platform (mathafresh.com) using SQL, Python, and Excel, I was able to transform raw transaction records into a meaningful, business-ready dataset.
 
 The heart of this project lies in its analysis. Through advanced data modeling and visualization, I uncovered trends in sales performance, identified our highest-impact products, mapped customer concentrations by postcode, and revealed purchasing behaviors that directly inform stock, marketing, and delivery strategies. Each insight was designed not just to inform, but to empower every department at Matha Fresh to make faster, smarter, and more customer-focused decisions.
 
